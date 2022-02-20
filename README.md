@@ -27,4 +27,6 @@ d) Use PCA to limit features and speed up the model.
 
 ### Applying the Principal Component Analysis:
 
+<img width="772" alt="Screen Shot 2022-02-19 at 11 26 17 PM" src="https://user-images.githubusercontent.com/91294352/154828538-fbcde40d-67da-4e11-ad2a-4b7335c6dad4.png">
+
 ### 3D Scatterplot with Clusters, Visualizing Tradable Cryptocurrencies:
