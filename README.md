@@ -3,7 +3,7 @@ Unsupervised Machine Learning and Cryptocurrencies
 
 
 ### Purpose:
-A client asked for a list of tradable cryptocurrencies and wants to be able to pick them from a classification system.
+To analyse what cryptocurrencies are on the trading market and how they could be grouped to create a classification system. We learn 
 
 a) To Preprocess data for unsupervised learning.
 
